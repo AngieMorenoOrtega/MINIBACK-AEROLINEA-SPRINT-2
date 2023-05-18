@@ -1,9 +1,28 @@
 {
-    "vuelos":[
+    "vuelos redondos": [
         {
+            "origen": "Santa Marta",
+            "destino": "México",
+            "salida": "10/06/2023",
+            "regreso": "10/06/2023",
+            "id": "AWE",
+            "precio": "1.900.000",
+            "escala": true,
+            "ciudad_escala": "Bogotá",
+            "hora_1": "3:40",
+            "hora_2": "3:20"
+        },
+        {
+            "origen": "Santa Marta",
+            "destino": "México",
+            "salida": "10/06/2023",
             
-
+            "id": "AW",
+            "precio": "900.000",
+            "escala": true,
+            "ciudad_escala": "Bogotá",
+            "hora_1": "3:40",
+            "hora_2": "3:20"
         }
     ]
-
 }
